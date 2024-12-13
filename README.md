@@ -774,3 +774,4 @@ This project was developed by  me (**Pankil Soni**). Feel free to reach out with
 ## 🙌 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
+https://github.com/pankil-soni/mern-chat-app
